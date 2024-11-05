@@ -1,5 +1,6 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "さいはて難易度表（仮）",
+"symbol" : "ﾊﾃ",
+"data_url" : "https://script.google.com/macros/s/AKfycbxT7uUy4m7Mv16DA9ZF-V8QiIrPr6tRsjdIa6m8hKZ9ZLN5KCvvTGU-bbCLqMdEOaUlCw/exec"
 }
+
